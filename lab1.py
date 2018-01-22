@@ -1,0 +1,6 @@
+print("a")
+print("c")
+a=input("enter a value for a=")
+b=input("enter a value for b=")
+c=int(a)+int(b)
+print(c)      

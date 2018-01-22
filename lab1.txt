@@ -1,0 +1,17 @@
+>mkdir yourname
+       example:mkdir nithin
+>cd yourname
+     example:cd nithin
+>pwd=preint working directory
+ 
+>pyt has two windows
+1.text window
+2.shell window
+
+>add two numbers
+a=
+b=
+c=a+b
+
+similar to perform in both shell and editor window
+
