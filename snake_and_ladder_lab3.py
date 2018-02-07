@@ -54,7 +54,9 @@ while(ctr<100):
     elif ctr==93:
         ctr=64
         print("SNAKE BIT YOU..:( MOVE DOWN TO 64")
-    #elifcondition ctr moves from 100 game over.  
+    #elifcondition ctr moves from 100 game over.
+    elif ctr>100:
+            ctr=ctr-r
     elif ctr>=100:
         print("You won")
      
